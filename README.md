@@ -1,5 +1,5 @@
 <h1 align="center">Hi there I'm Pedro</h1>
-<h3 align="center"> |Future Developer |</h3>
+<h3 align="center"> |Developer Front-end|</h3>
 
 <p align="center">
   <img src="https://email-files.fangamer.com/list_48/campaign_8/dw_campfire-i1pyKBJ9BRgjP1OS.gif" height="160"/>
