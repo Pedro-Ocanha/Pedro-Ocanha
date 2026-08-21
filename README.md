@@ -2,7 +2,7 @@
 <h3 align="center"> |Developer Front-end|</h3>
 
 <p align="center">
-  <img src="https://gifdb.com/deltarune" height="160"/>
+  <img src="https://gifdb.com/images/thumbnail/a-pixel-art-of-a-girl-holding-a-little-girl-820jlqla24mo0ruo.gif" height="160"/>
 </p>
 
 
