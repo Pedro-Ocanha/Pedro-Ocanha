@@ -35,5 +35,7 @@
 ###  Socials
 <p align="center">
   <a href="https://discord.gg/UseKhxMp"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pedro-ocanha-893893351"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pedro-ocanha-893893351"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
 </p>
