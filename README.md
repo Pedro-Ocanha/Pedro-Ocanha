@@ -1,4 +1,5 @@
-<h1 align="center">Hi :) I'm Pedro</h1>
+<h1 align="center">Opa tudo bom? Me Chamo Pedro :D</h1>
+<h2 align="center">Sou estudante do curso de Desenvolvimento de Sistemas e estou estudando para ser um fullstack na área. <br> Minhas linguagens e ferramentas que eu sei são: Python, HTML e CSS, MYSQL, GIT, NGROK, FASTAPI,VSCODE.
 <h3 align="center"> |Developer Front-end|</h3>
 
 <p align="center">
