@@ -1,4 +1,4 @@
-<h1 align="center">Opa tudo bom? Me Chamo Pedro :D</h1>
+<h1 align="center">Olá tudo bem? Me Chamo Pedro :D</h1>
 <h6 align="center">Sou estudante do curso de Desenvolvimento de Sistemas, tenho 16 anose sempre estou me aprimorando e estudando para sempre aumentar minhas habilidades. <br> Meu foco é se tornar fullstack e as linguagens que eu mais foco é python, html, css e mysql, apesar de tbm saber java script e lidar com ferramentas como o vscode, ngrok, git e o fastAPI. Ultimamente ando programando bots e sites e estudando para aumentar meu repertótio. Tenho muito interesse na área de analise e desenvolvimento de sistemas, e me dedico a cada vez mais a me aprimorar na área e manter sempre meu trabalho bem organizado e colaborativo usando o Git e o Github pra isso. </h6>
 <h3 align="center"><mark style="background-color: #781ce8">|Desenvolvedor Front-end Junior|</mark></h3>
 
